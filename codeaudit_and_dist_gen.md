@@ -36,9 +36,9 @@ Notes:
 
 ### Scenarios
 
-During our class, we discussed two hypothetical scenarios. It is important to remember that these scenarios are stylized, to dilenate the extremes, which is useful for elucidating the underlying game-theoretic mechanics of the buyer/seller consumer/producer relationships of this particular domain.
+During our class, we discussed two hypothetical scenarios. It is important to remember that these scenarios are stylized, to delineate the extremes, which is useful for elucidating the underlying game-theoretic mechanics of the buyer/seller consumer/producer relationships of this particular domain.
 
-In any IT project, price is the main pain-point. Mediocre software development is already difficult. Excellent software development requires a unique combination of genius, discipline, and experience that is extremely rare. Therefore, due to difficulty of the domain, and further difficulty to reach true excellence, Programmers are *the most* expensive pool of skilled labor in the world. 
+In any IT project, price is the main pain-point. Mediocre software development is already difficult. Excellent software development requires a unique combination of genius, discipline, and experience that is extremely rare. Therefore, due to difficulty of the domain, and further difficulty to reach true excellence, programmers are *the most* expensive pool of skilled labor in the world. 
 
 The expensiveness of software development projects means that most out-sourced IT projects are negotiated on price and time. 
 
@@ -64,10 +64,9 @@ The project will also, most likely, be less extensible. (not future proof). most
 + long-term payoff
 + proper usability 
 + extensibility
-
 + even code quality (parts of the project done last are not of less quality than the first (when as a function of the resource overun mentioned above)
 + lower risk (but not guaranteeed) of budget deadline overrun and problems with implementation
-+ properly navigating this field requires the oversight of a seasoned professional(s) with deep knowledge of software architecture as well as the capacity to understand the domain. (Third-Party Code Auditing comes in here)
++ properly navigating this field (to guarantee optimum price/quality ratio) requires the oversight of a seasoned professional(s) with deep knowledge of software architecture as well as the experts of the domain, who possess enough working knowledge of the IT field to communicate specifications to the IT professionals. (Third-Party Code Auditing comes in here)
 
 ### Price structure of contractor:
 if he is HQ:
