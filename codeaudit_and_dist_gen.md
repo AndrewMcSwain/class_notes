@@ -26,13 +26,28 @@ Discussed:
 the model below is a binary gradient with a single, two factor, modulator
 
 ```Proper Implementation --- ||isModulator|(EXPERTISE{x,y}|isMODULATOR|| --- cost/time [price tag]```
-Expertise x : Architectural
-Expertise y:  Managerial 
-Architectural has more impact on customer
-Managerial may or may not have impact on price/quality positioning. Affects cootractor's profit moreso than client's price/quality. Mangerial practices have an impact on code quality that is harder for the client to quantify.
+`Expertise x : Architectural`
+`Expertise y:  Managerial` 
+
+Notes:
++ Architectural has more impact on customer
++ Managerial may or may not have impact on price/quality positioning. Affects cootractor's profit moreso than client's price/quality. Mangerial practices have an impact on code quality that is harder for the client to quantify.
+--------------
+
+### Scenarios
+
+During our class, we discussed two hypothetical scenarios. It is important to remember that these scenarios are stylized, to dilenate the extremes, which is useful for elucidating the underlying game-theoretic mechanics of the buyer/seller consumer/producer relationships of this particular domain.
+
+In any IT project, price is the main pain-point. Mediocre software development is already difficult. Excellent software development requires a unique combination of genius, discipline, and experience that is extremely rare. Therefore, due to difficulty of the domain, and further difficulty to reach true excellence, Programmers are *the most* expensive pool of skilled labor in the world. 
+
+The expensiveness of software development projects means that most out-sourced IT projects are negotiated on price and time. 
+
+I argue that this is a mistake. It is my intent that the following description, though simplistic,  will reveal the reasoning behind this argument. 
+
 
 ### Scenario A
-Lower Price up front
+
++Lower Price up-front
 
 cost reduction incentives misaligned with proper implementation
 realities of coding demand competent systems architects and realist cost/time projections or project will 
@@ -66,8 +81,10 @@ if he is HQ:
 
 ## Distributed Generation
 
-### Transmission - Natural Monopoly - in a position to be market maker and underwriting coordinator for
-* Distributed Generation*
+### Transmission - 
+Natural Monopoly -
+<br>in a position to be market maker and underwriting coordinator for
+<br>*Distributed Generation*
 
 ### Distributed Generation
 
@@ -121,6 +138,7 @@ Better (longer-term) incentive package
 + True globalization through deeper and more dense interioantl relations
 
 
+```
             reduces rift between
 Individuals                 Business
           \_________________/
@@ -135,4 +153,4 @@ Individuals                 Business
 	        \/
        essential to the short/mid/long term
        survival of modern civilization
-                
+            ```    
